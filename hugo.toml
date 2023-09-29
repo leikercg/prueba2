@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://leikercg.github.io/prueba2/'
 languageCode = 'es'
 title = 'Mi blog personal'
 theme=  'tale'
