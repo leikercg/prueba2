@@ -3,6 +3,10 @@ languageCode = 'es'
 title = 'Mi blog personal'
 theme=  'tale'
 [menu]
+
+[params]
+css=["css/estilos.css"]
+
   [[menu.main]]
     identifier = "about"
     name = "About"
