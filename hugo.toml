@@ -1,4 +1,4 @@
-baseURL = 'https://leikercg.github.io/prueba2/'
+baseURL = 'https://leikercg.github.io'
 languageCode = 'es'
 title = 'Mi blog personal'
 theme=  'tale'
@@ -6,7 +6,7 @@ theme=  'tale'
 [params]
 css=["css/estilos.css"]
 
-[autor0]
+[autor]
 name="Leiker Castilo"
 
 
