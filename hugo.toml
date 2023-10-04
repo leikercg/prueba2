@@ -3,7 +3,7 @@ languageCode = 'es'
 title = 'Mi blog personal'
 theme=  'tale'
 
-[params]
+[Params]
 css=["css/estilos.css"]
 
 [Author]
